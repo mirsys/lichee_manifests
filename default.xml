@@ -27,11 +27,10 @@
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="device/softwinner/common" name="device/softwinner/common" />
+  <project path="device/softwinner/crane-3g" name="device/softwinner/crane-3g" />
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-MID9742-sc3052" name="device/softwinner/crane-MID9742-sc3052" />
-  <project path="device/softwinner/crane-evb-v12r" name="device/softwinner/crane-evb-v12r" />
-  <project path="device/softwinner/crane-evb-v13" name="device/softwinner/crane-evb-v13" /> 
-  <project path="device/softwinner/crane-evb" name="device/softwinner/crane-evb" /> 
+  <project path="device/softwinner/crane-m1003h6" name="device/softwinner/crane-m1003h6" /> 
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" /> 
   <project path="device/softwinner/nuclear-evb" name="device/softwinner/nuclear-evb" /> 
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -126,6 +125,7 @@
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
   <project path="external/quake" name="platform/external/quake" />
+  <project path="external/replicaisland" name="platform/external/replicaisland" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/skia" name="platform/external/skia" />
   <project path="external/sonivox" name="platform/external/sonivox" />
