@@ -29,6 +29,8 @@
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" /> 
   <project path="device/softwinner/nuclear-evb" name="device/softwinner/nuclear-evb" /> 
+  <project path="device/softwinner/nuclear-evb_mmc" name="device/softwinner/nuclear-evb_mmc" /> 
+  <project path="device/softwinner/nuclear-mini" name="device/softwinner/nuclear-mini" /> 
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
