@@ -2,8 +2,8 @@
 <manifest>
 
   <remote  name="exdroid"
-           fetch="../git_repo/android_a13" />
-  <default revision="ics-exdroid"
+           fetch="/git_repo/A13/android4.0" />
+  <default revision="develop"
            remote="exdroid"
            sync-j="4" />
 
