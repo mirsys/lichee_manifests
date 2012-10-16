@@ -3,7 +3,7 @@
 
   <remote  name="exdroid"
            fetch="/git_repo/A13/android4.1" />
-  <default revision="jb-exdroid"
+  <default revision="develop"
            remote="exdroid"
            sync-j="4" />
 

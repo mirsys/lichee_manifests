@@ -3,7 +3,7 @@
 
   <remote  name="lichee"
            fetch="/git_repo/A13/lichee" />
-  <default revision="develop"
+  <default revision="dev-jb"
            remote="lichee"
            sync-j="4" />
 
