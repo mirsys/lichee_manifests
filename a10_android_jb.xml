@@ -39,6 +39,7 @@
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-m1003h6" name="device/softwinner/crane-m1003h6" />
+  <project path="device/softwinner/crane-pub" name="device/softwinner/crane-pub" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
