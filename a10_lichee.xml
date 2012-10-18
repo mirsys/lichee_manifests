@@ -10,6 +10,7 @@
   <project path="buildroot" name="buildroot">
     <copyfile src="scripts/top_build.sh" dest="build.sh" />
     <copyfile src="README" dest="README" />
+    <copyfile src="Build_Quick_Guide.txt" dest="Build_Quick_Guide.txt" />
   </project>
   <project path="linux-3.0" name="linux-3.0" />
   <project path="u-boot" name="u-boot" />
