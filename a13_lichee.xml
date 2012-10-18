@@ -12,6 +12,7 @@
     <copyfile src="README" dest="README" />
   </project>
   <project path="linux-3.0" name="linux-3.0" />
+    <copyfile src="Build_Quick_Guide.txt" dest="Build_Quick_Guide.txt" />
   <project path="u-boot" name="u-boot" />
   <project path="tools" name="tools" />
 
