@@ -32,6 +32,8 @@
   <project path="device/softwinner/nuclear-pub" name="device/softwinner/nuclear-pub" /> 
   <project path="device/softwinner/nuclear-evb_mmc" name="device/softwinner/nuclear-evb_mmc" /> 
   <project path="device/softwinner/nuclear-mini" name="device/softwinner/nuclear-mini" /> 
+  <project path="device/softwinner/nuclear-xw711" name="device/softwinner/nuclear-xw711" /> 
+  <project path="device/softwinner/nuclear-xw711_mmc" name="device/softwinner/nuclear-xw711_mmc" /> 
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
@@ -163,6 +165,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/support" name="platform/frameworks/support" />
+  <project path="hardware/aw" name="platform/hardware/aw" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
