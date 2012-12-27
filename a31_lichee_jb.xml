@@ -3,7 +3,7 @@
 
   <remote  name="lichee"
            fetch="/git_repo/A31/lichee" />
-  <default revision="jb-a31"
+  <default revision="develop"
            remote="lichee"
            sync-j="4" />
   <project path="buildroot" name="buildroot" >
