@@ -37,6 +37,7 @@
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="device/softwinner/fiber-common" name="device/softwinner/fiber-common" />
+  <project path="device/softwinner/fiber-A1003TA" name="device/softwinner/fiber-A1003TA" />
   <project path="device/softwinner/fiber-evb" name="device/softwinner/fiber-evb" />
   <project path="device/softwinner/fiber-onda809q9" name="device/softwinner/fiber-onda809q9" />
   <project path="external/aac" name="platform/external/aac" />
