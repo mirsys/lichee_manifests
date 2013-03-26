@@ -40,8 +40,9 @@
   <project path="device/softwinner/fiber-A1003TA" name="device/softwinner/fiber-A1003TA" />
   <project path="device/softwinner/fiber-evb" name="device/softwinner/fiber-evb" />
   <project path="device/softwinner/fiber-3g" name="device/softwinner/fiber-3g" />
-  <project path="device/softwinner/fiber-onda809q9" name="device/softwinner/fiber-onda809q9" />
-  <project path="device/softwinner/fiber-onda978q9" name="device/softwinner/fiber-onda978q9" />
+  <project path="device/softwinner/fiber-w01" name="device/softwinner/fiber-w01" />
+  <project path="device/softwinner/fiber-w02" name="device/softwinner/fiber-w02" />
+  <project path="device/widevine" name="device/widevine" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
