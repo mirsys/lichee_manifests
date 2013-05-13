@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="lichee"
-           fetch="/git_repo/A31/lichee4.2" />
+           fetch="/git_repo/A31s/lichee4.2" />
   <default revision="develop"
            remote="lichee"
            sync-j="4" />
