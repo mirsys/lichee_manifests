@@ -39,7 +39,7 @@
   <project path="device/widevine" name="device/widevine" groups="device" />
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/wing-common" name="device/softwinner/wing-common" />
-  <project path="device/softwinner/wing-k70" name="device/softwinner/wing-k70" />
+  <project path="device/softwinner/wing-AS7" name="device/softwinner/wing-AS7" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
