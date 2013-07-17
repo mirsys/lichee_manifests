@@ -42,6 +42,7 @@
   <project path="device/softwinner/wing-evb-v10" name="device/softwinner/wing-evb-v10" />
   <project path="device/softwinner/sugar-evb" name="device/softwinner/sugar-evb" />
   <project path="device/softwinner/sugar-ref001" name="device/softwinner/sugar-ref001" />
+  <project path="device/softwinner/sugar-standard" name="device/softwinner/sugar-standard" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
