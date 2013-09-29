@@ -41,6 +41,7 @@
   <project path="device/softwinner/fiber-common" name="device/softwinner/fiber-common" />
   <project path="device/softwinner/fiber-3g" name="device/softwinner/fiber-3g" />
   <project path="device/softwinner/fiber-a31st" name="device/softwinner/fiber-a31st" />
+  <project path="device/softwinner/fiber-a31stm" name="device/softwinner/fiber-a31stm" />
   <project path="device/softwinner/fiber-a31st512m" name="device/softwinner/fiber-a31st512m" />
   <project path="device/softwinner/fiber-w01" name="device/softwinner/fiber-w01" />
   <project path="device/softwinner/fiber-w02" name="device/softwinner/fiber-w02" />
