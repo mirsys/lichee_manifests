@@ -40,6 +40,7 @@
   <project path="device/softwinner/wing-common" name="device/softwinner/wing-common" />
   <project path="device/softwinner/wing-k70" name="device/softwinner/wing-k70" />
   <project path="device/softwinner/wing-nck70" name="device/softwinner/wing-nck70" />
+  <project path="device/softwinner/wing-n71j" name="device/softwinner/wing-n71j" />
   <project path="device/widevine" name="device/widevine" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
