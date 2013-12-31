@@ -40,6 +40,8 @@
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="device/softwinner/fiber-common" name="device/softwinner/fiber-common" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
+  <project path="device/softwinner/mars-a31s" name="device/softwinner/mars-a31s" />
+  <project path="device/softwinner/mars-a31s512m" name="device/softwinner/mars-a31s512m" />
   <project path="device/softwinner/mars-evb" name="device/softwinner/mars-evb" />
   <project path="device/softwinner/mars-ml220" name="device/softwinner/mars-ml220" />
   <project path="device/softwinner/mars-hm5230" name="device/softwinner/mars-hm5230" />
