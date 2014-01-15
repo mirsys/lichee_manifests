@@ -39,6 +39,7 @@
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" />
   <project path="device/softwinner/nuclear-n01" name="device/softwinner/nuclear-n01" />
+  <project path="device/softwinner/nuclear-n01m" name="device/softwinner/nuclear-n01m" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/aac" name="platform/external/aac" />
   <project path="external/android-clat" name="platform/external/android-clat" />
