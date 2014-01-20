@@ -7,7 +7,7 @@
            remote="lichee"
            sync-j="4" />
 
-
+  <project path="brandy" name="brandy" />
   <project path="buildroot" name="buildroot">
     <copyfile src="scripts/top_build.sh" dest="build.sh" />
     <copyfile src="README" dest="README" />
