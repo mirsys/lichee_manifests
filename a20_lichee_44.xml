@@ -16,5 +16,6 @@
   <project path="u-boot" name="u-boot" />
   <project path="tools" name="tools"  />
   <project path="boot" name="boot"  />
+  <project path="brandy" name="brandy" />
 
 </manifest>
