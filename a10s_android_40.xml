@@ -38,11 +38,13 @@
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-m1003h6" name="device/softwinner/crane-m1003h6" />
   <project path="device/softwinner/elite-evb" name="device/softwinner/elite-evb" />
-  <project path="device/softwinner/elite-pub" name="device/softwinner/elite-pub" />
+  <project path="device/softwinner/elite-evb_mmc" name="device/softwinner/elite-evb_mmc" />
   <project path="device/softwinner/elite-nm307" name="device/softwinner/elite-nm307" />
   <project path="device/softwinner/elite-nm307-v11" name="device/softwinner/elite-nm307-v11" />
+  <project path="device/softwinner/elite-ref005" name="device/softwinner/elite-ref005" />
+  <project path="device/softwinner/elite-standard" name="device/softwinner/elite-standard" />
+  <project path="device/softwinner/elite-xwi8" name="device/softwinner/elite-xwi8" />
   <project path="device/softwinner/crane-evb" name="device/softwinner/crane-evb" />
-  <project path="device/softwinner/elite-evb_mmc" name="device/softwinner/elite-evb_mmc" />
   <project path="device/softwinner/crane-evb-v12r" name="device/softwinner/crane-evb-v12r" />
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" />
   <project path="device/softwinner/nuclear-evb" name="device/softwinner/nuclear-evb" />
