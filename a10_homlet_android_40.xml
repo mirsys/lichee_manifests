@@ -3,7 +3,7 @@
 
   <remote  name="homlet" 
   	   fetch="/git_repo/homlet/android4.0" /> 
-  <default revision="apollo-dev" 
+  <default revision="develop"
   	   remote="homlet" 
   	   sync-j="4" /> 
   				 
@@ -33,10 +33,12 @@
   <project path="device/samsung/tuna" name="device/samsung/tuna" />
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="device/softwinner/apollo-mele" name="device/softwinner/apollo-mele" /> 
+  <project path="device/softwinner/apollo-mele_mmc" name="device/softwinner/apollo-mele_mmc" />
   <project path="device/softwinner/apollo-tvdevb" name="device/softwinner/apollo-tvdevb" /> 
   <project path="device/softwinner/common" name="device/softwinner/common" />
   <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
   <project path="device/softwinner/crane-m1003h6" name="device/softwinner/crane-m1003h6" />
+  <project path="device/softwinner/elite-evb" name="device/softwinner/elite-evb" />
   <project path="device/softwinner/crane-evb" name="device/softwinner/crane-evb" />
   <project path="device/softwinner/crane-evb-v12r" name="device/softwinner/crane-evb-v12r" />
   <project path="device/softwinner/nuclear-common" name="device/softwinner/nuclear-common" />
@@ -113,6 +115,7 @@
   <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/markdown" name="platform/external/markdown" />
+  <project path="external/mdnsresponder" name="platform/external/mdnsresponder" />
   <project path="external/mesa3d" name="platform/external/mesa3d" />
   <project path="external/mksh" name="platform/external/mksh" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" />
@@ -173,6 +176,7 @@
   <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
   <project path="frameworks/support" name="platform/frameworks/support" />
+  <project path="hardware/aw" name="platform/hardware/aw" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="hardware/invensense" name="platform/hardware/invensense" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" />
