@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="exdroid"
-           fetch="/git_repo/intel/z3735FG/4.4/android" />
+           fetch="/git_repo/intel/z3735DE/4.4/android" />
   <default revision="develop"
            remote="exdroid"
            sync-j="4" />
