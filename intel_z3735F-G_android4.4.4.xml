@@ -469,7 +469,6 @@
   <project name="a/bsp/hardware/intel/PRIVATE/camera_extension" path="vendor/intel/hardware/camera_extension"/>
   <project name="a/bsp/hardware/intel/PRIVATE/libcamera2" path="vendor/intel/hardware/libcamera2"/>
   <project name="a/bsp/hardware/intel/PRIVATE/libintelprov" path="vendor/intel/hardware/libintelprov"/>
-  <project name="a/bsp/hardware/intel/PRIVATE/mmgr" path="vendor/intel/hardware/mmgr"/>
   <project name="a/bsp/hardware/intel/apache-harmony" path="vendor/intel/hardware/apache-harmony"/>
   <project name="a/bsp/hardware/intel/audiocomms/utilities" path="vendor/intel/hardware/audiocomms/utilities"/>
   <project name="a/bsp/hardware/intel/cmfwdl/reference_application" path="vendor/intel/hardware/cmfwdl/reference_application"/>
@@ -525,7 +524,6 @@
   <project name="a/bsp/vendor/intel/fw/bt/realtek" path="vendor/intel/fw/bt/realtek" restricted="not_IMC_wprd"/>
   <project name="a/bsp/vendor/intel/hardware/audiocomms/audience/ad-proxy" path="vendor/intel/tools/audiocomms/audience/ad-proxy"/>
   <project name="a/bsp/vendor/intel/hardware/audiocomms/audience/ad-streamer" path="vendor/intel/tools/audiocomms/audience/ad-streamer"/>
-  <project name="a/bsp/vendor/intel/hardware/fibocom_ril" path="vendor/intel/hardware/fibocom_ril"/>
   <project name="a/bsp/vendor/intel/hardware/keymaster" path="vendor/intel/hardware/keymaster"/>
   <project name="a/bsp/vendor/intel/hardware/nfc/common" path="vendor/intel/hardware/nfc/common"/>
   <project name="a/bsp/vendor/intel/hardware/realtek/libbt" path="vendor/intel/hardware/realtek/libbt"/>
@@ -551,4 +549,5 @@
   <project name="a/bsp/vendor/intel/tools/isp_acc" path="vendor/intel/tools/isp_acc"/>
   <project name="a/bsp/vendor/intel/tools/uefivar" path="vendor/intel/tools/uefivar"/>
   <project name="a/bsp/vendor/intel/touchfilter" path="vendor/intel/touchfilter"/>
+  <project name="a/cts/cte/releasenotes" path="releasenotes"/>
 </manifest>
