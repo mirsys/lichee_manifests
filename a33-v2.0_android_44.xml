@@ -3,7 +3,7 @@
 
   <remote  name="exdroid"
            fetch="/git_repo/A33/4.4/android" />
-  <default revision="develop"
+  <default revision="develop-v2.0"
            remote="exdroid"
            sync-j="4" />
 
