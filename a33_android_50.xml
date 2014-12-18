@@ -53,6 +53,7 @@
   <project path="device/softwinner/kylin-p2" name="device/softwinner/kylin-p2" groups="device,softwinner" />
   <project path="device/softwinner/octopus-common" name="device/softwinner/octopus-common" groups="device,softwinner" />
   <project path="device/softwinner/octopus-f1" name="device/softwinner/octopus-f1" groups="device,softwinner" />
+  <project path="device/softwinner/astar-yh" name="device/softwinner/astar-yh" groups="device,softwinner" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
@@ -312,6 +313,7 @@
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs" />
   <project path="hardware/akm" name="platform/hardware/akm" />
+  <project path="hardware/espressif" name="platform/hardware/espressif" />
   <project path="hardware/aw" name="platform/hardware/aw" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
