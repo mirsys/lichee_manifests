@@ -536,6 +536,7 @@
   <project name="a/bsp/vendor/intel/hardware/energy_management/fg_algo" path="vendor/intel/hardware/PRIVATE/energy_management/fg_algo"/>
   <project name="a/bsp/vendor/intel/hardware/healthd" path="vendor/intel/hardware/healthd"/>
   <project name="a/bsp/vendor/intel/hardware/keymaster" path="vendor/intel/hardware/keymaster"/>
+  <project name="a/bsp/vendor/intel/hardware/libaesni" path="vendor/intel/hardware/PRIVATE/libaesni"/>
   <project name="a/bsp/vendor/intel/hardware/nfc/common" path="vendor/intel/hardware/nfc/common"/>
   <project name="a/bsp/vendor/intel/hardware/realtek/libbt" path="vendor/intel/hardware/realtek/libbt"/>
   <project name="a/bsp/vendor/intel/hardware/realtek/wlan" path="vendor/intel/hardware/realtek/wlan"/>
