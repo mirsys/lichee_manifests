@@ -300,7 +300,6 @@
   <project name="a/aosp/platform/frameworks/opt/widget" path="android/frameworks/opt/widget"/>
   <project name="a/aosp/platform/frameworks/rs" path="android/frameworks/rs"/>
   <project name="a/aosp/platform/frameworks/support" path="android/frameworks/support"/>
-  <project name="a/aosp/platform/frameworks/testing" path="android/frameworks/testing"/>
   <project name="a/aosp/platform/frameworks/volley" path="android/frameworks/volley"/>
   <project name="a/aosp/platform/frameworks/webview" path="android/frameworks/webview"/>
   <project name="a/aosp/platform/frameworks/wilhelm" path="android/frameworks/wilhelm"/>
@@ -321,6 +320,7 @@
   <project name="a/aosp/platform/hardware/ril" path="android/hardware/ril"/>
   <project name="a/aosp/platform/libcore" path="android/libcore"/>
   <project name="a/aosp/platform/libnativehelper" path="android/libnativehelper"/>
+  <project name="a/aosp/platform/manifest" path="manifest"/>
   <project name="a/aosp/platform/ndk" path="android/ndk"/>
   <project name="a/aosp/platform/packages/apps/BasicSmsReceiver" path="android/packages/apps/BasicSmsReceiver"/>
   <project name="a/aosp/platform/packages/apps/Bluetooth" path="android/packages/apps/Bluetooth"/>
@@ -467,10 +467,7 @@
   <project name="a/bsp/gnss/lbs" path="android/hardware/imc/gnss"/>
   <project name="a/bsp/hardware/imc-rservice" path="android/hardware/imc/rservice"/>
   <project name="a/bsp/hardware/imc/bt_trace_daemon" path="android/vendor/tools/Bluetooth/bt_trace_daemon"/>
-  <project name="a/bsp/hardware/intel/PRIVATE/camera2hal" path="android/vendor/intel/hardware/camera3hal"/>
   <project name="a/bsp/hardware/intel/PRIVATE/camera_extension" path="android/vendor/intel/hardware/camera_extension"/>
-  <project name="a/bsp/hardware/intel/PRIVATE/cameralibs" path="android/vendor/intel/hardware/PRIVATE/cameralibs"/>
-  <project name="a/bsp/hardware/intel/PRIVATE/libmfldadvci" path="android/vendor/intel/hardware/PRIVATE/libmfldadvci"/>
   <project name="a/bsp/hardware/intel/libmedia_utils" path="android/vendor/intel/hardware/libmedia_utils"/>
   <project name="a/bsp/hardware/intel/linux-2.6" path="linux-3.10"/>
   <project name="a/bsp/lpmp3" path="lpmp3_vm"/>
@@ -478,9 +475,11 @@
   <project name="a/bsp/mobilevisor/products" path="mobilevisor/products"/>
   <project name="a/bsp/mobilevisor/release" path="mobilevisor/release"/>
   <project name="a/bsp/packages/apps/fmr" path="android/packages/apps/fmr"/>
+  <project name="a/bsp/platform/external/thermal_daemon" path="android/external/thermal_daemon"/>
   <project name="a/bsp/prebuilts/intel_sofia3g_l" path="android/prebuilts/intel/"/>
   <project name="a/bsp/soclib" path="soclib"/>
   <project name="a/bsp/vendor/PRIVATE/rockchip" path="android/vendor/PRIVATE/rockchip"/>
+  <project name="a/bsp/vendor/intel/apps/ituxd" path="android/vendor/intel/apps/ituxd"/>
   <project name="a/bsp/vendor/intel/hardware/PRIVATE/ipcservice" path="android/hardware/imc/ipcservice"/>
   <project name="a/bsp/vendor/intel/hardware/PRIVATE/iwlwifi/fw-binary-public" path="android/hardware/imc/wlan/iwl-firmware"/>
   <project name="a/bsp/vendor/intel/hardware/PRIVATE/iwlwifi/hostap-public" path="android/hardware/imc/wlan/hostap_wcs"/>
@@ -497,11 +496,11 @@
   <project name="a/sofia/hardware/imc/ril" path="android/hardware/imc/ril"/>
   <project name="a/sofia/hardware/imc/rpc" path="android/hardware/imc/rpc"/>
   <project name="a/sofia/modem/utils/config" path="utils/config"/>
+  <project name="a/sofia/modem_1/xmm6421" path="modem"/>
   <project name="a/sofia/platform/hardware/vlx" path="android/hardware/intel"/>
   <project name="a/sofia/rfst/rocs" path="android/hardware/imc/xvtrocs"/>
   <project name="a/sofia/vendor/tools/Bluetooth/bt_trace_manager" path="android/vendor/tools/Bluetooth/bt_trace_manager"/>
   <project name="a/sofia/vendor/tools/Bluetooth/phonetool_bt_usc" path="android/vendor/tools/Bluetooth/phonetool_bt_usc"/>
   <project name="a/sofia/vendor/tools/Bluetooth/xvt_bt_usc" path="android/vendor/tools/Bluetooth/xvt_bt_usc"/>
   <project name="a/vendor/intel/imc/iwlwifi/xVT_service" path="android/hardware/imc/wlan/xVT_service"/>
-  <project name="a/vendor/intel/imc/xmm7260/delivery_modem" path="modem"/>
 </manifest>
