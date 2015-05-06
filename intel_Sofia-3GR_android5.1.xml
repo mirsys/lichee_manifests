@@ -320,7 +320,6 @@
   <project name="a/aosp/platform/hardware/ril" path="android/hardware/ril"/>
   <project name="a/aosp/platform/libcore" path="android/libcore"/>
   <project name="a/aosp/platform/libnativehelper" path="android/libnativehelper"/>
-  <project name="a/aosp/platform/manifest" path="manifest"/>
   <project name="a/aosp/platform/ndk" path="android/ndk"/>
   <project name="a/aosp/platform/packages/apps/BasicSmsReceiver" path="android/packages/apps/BasicSmsReceiver"/>
   <project name="a/aosp/platform/packages/apps/Bluetooth" path="android/packages/apps/Bluetooth"/>
@@ -461,7 +460,6 @@
   <project name="a/bsp/device/intel/apps/OemTelephony" path="android/vendor/intel/apps/telephony/OemTelephony"/>
   <project name="a/bsp/device/intel/houdini" path="android/vendor/intel/houdini"/>
   <project name="a/bsp/device/intel/log_capture" path="android/vendor/intel/tools/log_capture"/>
-  <project name="a/bsp/device/intel/log_infra" path="android/vendor/intel/tools/PRIVATE/log_infra"/>
   <project name="a/bsp/device/intel/sofia" path="android/device/intel"/>
   <project name="a/bsp/gnss/gnss_driver" path="android/hardware/imc/gnss_drv/gnss_driver"/>
   <project name="a/bsp/gnss/lbs" path="android/hardware/imc/gnss"/>
@@ -469,6 +467,7 @@
   <project name="a/bsp/hardware/imc/bt_trace_daemon" path="android/vendor/tools/Bluetooth/bt_trace_daemon"/>
   <project name="a/bsp/hardware/intel/PRIVATE/camera_extension" path="android/vendor/intel/hardware/camera_extension"/>
   <project name="a/bsp/hardware/intel/libmedia_utils" path="android/vendor/intel/hardware/libmedia_utils"/>
+  <project name="a/bsp/hardware/intel/libmintel" path="android/vendor/intel/hardware/PRIVATE/libmintel"/>
   <project name="a/bsp/hardware/intel/linux-2.6" path="linux-3.10"/>
   <project name="a/bsp/lpmp3" path="lpmp3_vm"/>
   <project name="a/bsp/mobilevisor/pal" path="mobilevisor/services"/>
@@ -479,6 +478,8 @@
   <project name="a/bsp/prebuilts/intel_sofia3g_l" path="android/prebuilts/intel/"/>
   <project name="a/bsp/soclib" path="soclib"/>
   <project name="a/bsp/vendor/PRIVATE/rockchip" path="android/vendor/PRIVATE/rockchip"/>
+  <project name="a/bsp/vendor/arcsoft/arccamera" path="android/vendor/arcsoft/arccamera"/>
+  <project name="a/bsp/vendor/intel/PRIVATE/art-extension" path="android/vendor/intel/art-extension"/>
   <project name="a/bsp/vendor/intel/apps/ituxd" path="android/vendor/intel/apps/ituxd"/>
   <project name="a/bsp/vendor/intel/hardware/PRIVATE/ipcservice" path="android/hardware/imc/ipcservice"/>
   <project name="a/bsp/vendor/intel/hardware/PRIVATE/iwlwifi/fw-binary-public" path="android/hardware/imc/wlan/iwl-firmware"/>
@@ -488,9 +489,9 @@
   <project name="a/bsp/vendor/intel/hardware/iwlwifi/iwlwifi-stack-slave-bus" path="android/hardware/imc/wlan/iwlwifi"/>
   <project name="a/bsp/vendor/intel/hardware/keystore" path="android/vendor/intel/hardware/keystore"/>
   <project name="a/bsp/vendor/intel/icc-redist-libs/linux-x86/x86/x86-android-linux-14.0" path="android/vendor/intel/icc-redist-libs/linux-x86/x86/x86-android-linux-14.0"/>
+  <project name="a/bsp/vendor/intel/tools/intelpct" path="vendor/intel/tools/intelpct"/>
   <project name="a/bsp/wcs/vendor/intel/hardware/PRIVATE/bt/wcs/bluedroid" path="android/hardware/intel/bluedroid"/>
   <project name="a/bsp/wcs/vendor/intel/hardware/PRIVATE/bt/wcs/libbt" path="android/hardware/intel/libbt-vendor-intel"/>
-  <project name="a/sofia/build" path="build"/>
   <project name="a/sofia/hardware/imc/bluetooth/ibt_firmware_config_data" path="android/hardware/imc/bluetooth/ibt_firmware_config_data"/>
   <project name="a/sofia/hardware/imc/ipcservice/pt_bt_daemon" path="android/hardware/imc/pt_bt_daemon"/>
   <project name="a/sofia/hardware/imc/ril" path="android/hardware/imc/ril"/>
