@@ -3,7 +3,7 @@
 
   <remote  name="homlet"
            fetch="/git_repo/H3/4.4/android" />
-  <default revision="homlet44-h3-v1.y"
+  <default revision="develop"
            remote="homlet"
            sync-j="4" />
 
