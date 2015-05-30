@@ -47,7 +47,8 @@
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
  
-
+  <project path="device/softwinner/eagle-fvd-p1" name="device/softwinner/eagle-fvd-p1" groups="device" />
+  <project path="device/softwinner/eagle-common" name="device/softwinner/eagle-common" groups="device" />
   <project path="device/softwinner/common" name="device/softwinner/common" groups="device" />
     <project path="device/softwinner/dolphin-common" name="device/softwinner/dolphin-common" groups="device" />
       <project path="device/softwinner/dolphin-fvd-p1" name="device/softwinner/dolphin-fvd-p1" groups="device" />
