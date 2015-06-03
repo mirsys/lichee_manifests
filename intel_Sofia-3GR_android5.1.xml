@@ -460,6 +460,7 @@
   <project name="a/bsp/device/intel/apps/OemTelephony" path="android/vendor/intel/apps/telephony/OemTelephony"/>
   <project name="a/bsp/device/intel/houdini" path="android/vendor/intel/houdini"/>
   <project name="a/bsp/device/intel/log_capture" path="android/vendor/intel/tools/log_capture"/>
+  <project name="a/bsp/device/intel/log_infra" path="android/vendor/intel/tools/PRIVATE/log_infra"/>
   <project name="a/bsp/device/intel/sofia" path="android/device/intel"/>
   <project name="a/bsp/gnss/gnss_driver" path="android/hardware/imc/gnss_drv/gnss_driver"/>
   <project name="a/bsp/gnss/lbs" path="android/hardware/imc/gnss"/>
