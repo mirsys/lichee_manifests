@@ -455,6 +455,7 @@
   <project name="a/aosp/platform/system/vold" path="android/system/vold"/>
   <project name="a/aosp/platform/tools/build" path="android/tools/build"/>
   <project name="a/aosp/platform/tools/swt" path="android/tools/swt"/>
+  <project name="a/bsp/PRIVATE/prebuilts/ips2013" path="android/prebuilts/PRIVATE/ips2013"/>
   <project name="a/bsp/bootsystems" path="bootsystems"/>
   <project name="a/bsp/device/intel/PRIVATE/media_codecs" path="android/vendor/intel/PRIVATE/media_codecs"/>
   <project name="a/bsp/device/intel/apps/OemTelephony" path="android/vendor/intel/apps/telephony/OemTelephony"/>
