@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="homlet"
-           fetch="../Qin2" />
+           fetch="/git_repo/qin2/4.4.2/android" />
   <default revision="develop_product_Homlet4.4.2-Qin2-v1.0release_20150617"
            remote="homlet"
            sync-j="4" />
