@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="eyesee"
+           fetch="/git_repo/V3/camdroid" />
+  <default revision="develop_eyesee-stable_20150907_1657"
+           remote="eyesee"
+           sync-j="4" />
+  <project path="build" name="build" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="abi/cpp" name="abi/cpp" />
+  <project path="bionic" name="bionic" />
+  <project path="external" name="external" />
+  <project path="frameworks" name="frameworks" />
+  <project path="hardware" name="hardware" />
+  <project path="prebuilts" name="prebuilts" />
+  <project path="system" name="system" />
+  <project path="device/softwinner/common" name="device/softwinner/common" />
+  <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
+  <project path="device/softwinner/crane-cdr" name="device/softwinner/crane-cdr" />
+</manifest>
