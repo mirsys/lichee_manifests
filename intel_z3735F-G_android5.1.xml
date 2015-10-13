@@ -523,6 +523,7 @@
   <project name="a/bsp/prebuilts/intel_r51-stable" path="prebuilts/intel" sync-c="true"/>
   <project name="a/bsp/vendor/intel/PRIVATE/cert" path="vendor/intel/PRIVATE/cert"/>
   <project name="a/bsp/vendor/intel/PRIVATE/touchfilter" path="vendor/intel/touchfilter"/>
+  <project name="a/bsp/vendor/intel/apps/FileManager" path="vendor/intel/apps/FileManager"/>
   <project name="a/bsp/vendor/intel/apps/HdmiSettings" path="vendor/intel/apps/HdmiSettings"/>
   <project name="a/bsp/vendor/intel/apps/SensorCal" path="vendor/intel/apps/SensorCal"/>
   <project name="a/bsp/vendor/intel/apps/VppSettings" path="vendor/intel/apps/VppSettings"/>
