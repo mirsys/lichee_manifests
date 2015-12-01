@@ -11,6 +11,7 @@
     <copyfile src="scripts/top_build.sh" dest="build.sh" />
     <copyfile src="README" dest="README" />
   </project>
+  <project path="linux-3.4" name="linux-3.4" />
   <project path="linux-3.10" name="linux-3.10" />
   <project path="tools" name="tools" />
   <project path="brandy" name="brandy" />

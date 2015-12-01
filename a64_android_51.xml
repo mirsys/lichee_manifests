@@ -47,9 +47,24 @@
   <project path="device/softwinner/common" name="device/softwinner/common" groups="device,softwinner" >
     <copyfile src="sdk_switch.sh" dest="sdk_switch.sh" />
   </project>
-  
+  <project path="device/softwinner/astar-common" name="device/softwinner/astar-common" groups="device,softwinner" />
+  <project path="device/softwinner/astar-y3" name="device/softwinner/astar-y3" groups="device,softwinner" />
+  <project path="device/softwinner/astar-h7" name="device/softwinner/astar-h7" groups="device,softwinner" />
+  <project path="device/softwinner/astar-yh" name="device/softwinner/astar-yh" groups="device,softwinner" />
+  <project path="device/softwinner/kylin-common" name="device/softwinner/kylin-common" groups="device,softwinner" />
+  <project path="device/softwinner/kylin-p1" name="device/softwinner/kylin-p1" groups="device,softwinner" />
+  <project path="device/softwinner/kylin-p2" name="device/softwinner/kylin-p2" groups="device,softwinner" />
+  <project path="device/softwinner/octopus-common" name="device/softwinner/octopus-common" groups="device,softwinner" />
+  <project path="device/softwinner/octopus-f1" name="device/softwinner/octopus-f1" groups="device,softwinner" />
+  <project path="device/softwinner/jasmine-common" name="device/softwinner/jasmine-common" groups="device,softwinner" />
+  <project path="device/softwinner/jasmine-perf" name="device/softwinner/jasmine-perf" groups="device,softwinner" />
+  <project path="device/softwinner/octopus-perf" name="device/softwinner/octopus-perf" groups="device,softwinner" />
+  <project path="device/softwinner/octopus-n1" name="device/softwinner/octopus-n1" groups="device,softwinner" />
+  <project path="device/softwinner/octopus-ibt" name="device/softwinner/octopus-ibt" groups="device,softwinner" />
   <project path="device/softwinner/tulip-common" name="device/softwinner/tulip-common" groups="device,softwinner" />
   <project path="device/softwinner/tulip-t1" name="device/softwinner/tulip-t1" groups="device,softwinner" />
+  <project path="device/softwinner/tulip-p1" name="device/softwinner/tulip-p1" groups="device,softwinner" />
+  <project path="device/softwinner/tulip-perf" name="device/softwinner/tulip-perf" groups="device,softwinner" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs" />
