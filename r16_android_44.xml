@@ -46,6 +46,7 @@
   <project path="device/widevine" name="device/widevine" groups="device" />
   <project path="device/softwinner/polaris-common" name="device/softwinner/polaris-common" />
   <project path="device/softwinner/astar-evb" name="device/softwinner/astar-evb" />
+  <project path="device/softwinner/astar-evb20" name="device/softwinner/astar-evb20" />
   <project path="device/softwinner/r16-bell-one" name="device/softwinner/r16-bell-one" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" />
