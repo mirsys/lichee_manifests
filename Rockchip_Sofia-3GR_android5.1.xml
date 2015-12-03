@@ -452,6 +452,6 @@
   <project name="vendor/intel/images/phone_slb"  />
   <project name="vendor/intel/images/psi"  />
   <project name="vendor/intel/tools"  />
-  <project name="rk/RKDocs" path="RKDocs"  revision="sofia3gr"/>
-  <project name="rk/RKTools" path="RKTools"  revision="sofia3gr"/>
+  <project name="rk/RKDocs" path="RKDocs"  />
+  <project name="rk/RKTools" path="RKTools"  />
 </manifest>
