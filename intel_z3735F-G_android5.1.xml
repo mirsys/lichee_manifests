@@ -527,6 +527,7 @@
   <project name="a/bsp/vendor/intel/apps/HdmiSettings" path="vendor/intel/apps/HdmiSettings"/>
   <project name="a/bsp/vendor/intel/apps/SensorCal" path="vendor/intel/apps/SensorCal"/>
   <project name="a/bsp/vendor/intel/apps/VppSettings" path="vendor/intel/apps/VppSettings"/>
+  <project name="a/bsp/vendor/intel/apps/crosswalk" path="vendor/intel/apps/crosswalk"/>
   <project name="a/bsp/vendor/intel/apps/ituxd" path="vendor/intel/apps/ituxd"/>
   <project name="a/bsp/vendor/intel/arkham" path="vendor/intel/arkham"/>
   <project name="a/bsp/vendor/intel/asf_ext" path="vendor/intel/asf_ext"/>
