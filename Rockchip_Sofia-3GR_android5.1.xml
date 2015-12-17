@@ -90,7 +90,7 @@
   <project name="platform/external/cmockery" path="external/cmockery" />
   <project groups="pdk" name="platform/external/compiler-rt" path="external/compiler-rt" />
   <project groups="pdk-cw-fs" name="platform/external/conscrypt" path="external/conscrypt" />
-  <project name="platform/external/deqp" path="external/deqp" />
+  <project groups="pdk" name="platform/external/deqp" path="external/deqp"/>
   <project groups="pdk-cw-fs" name="platform/external/dexmaker" path="external/dexmaker" />
   <project groups="pdk-cw-fs" name="platform/external/dhcpcd" path="external/dhcpcd" />
   <project groups="pdk" name="platform/external/dnsmasq" path="external/dnsmasq" />
@@ -420,12 +420,14 @@
   <project groups="pdk" name="platform/system/vold" path="system/vold"  />
   <project groups="tools" name="platform/tools/external/fat32lib" path="tools/external/fat32lib" />
   <project groups="tools" name="platform/tools/external/gradle" path="tools/external/gradle" />
-  <project name="rk/device/rockchip/rksdk" path="device/rockchip/common"  />
-  <project name="rk/device/rockchip/sofia3gr" path="device/rockchip/sofia3gr"  >
+  <project name="rk/device/rockchip/rksdk" path="device/rockchip/common">
     <copyfile dest="mkimage.sh" src="mkimage.sh"/>
+  </project>
+  <project name="rk/device/rockchip/sofia3gr" path="device/rockchip/sofia3gr">
     <copyfile dest="build.sh" src="build.sh"/>
     <copyfile dest="buildspec.mk" src="buildspec-sofia3gr.mk"/>
   </project>
+  <project name="rk/device/rockchip/sofia3gr_phone" path="device/rockchip/sofia3gr_phone"/>
   <project name="rk/hardware/rk29/hwcomposer_rga" path="hardware/rockchip/hwcomposer"  />
   <project name="rk/hardware/rk29/jpeghw" path="hardware/rockchip/jpeghw"  />
   <project name="rk/hardware/rk29/libgralloc_ump" path="hardware/rockchip/libgralloc"  />
@@ -446,6 +448,7 @@
   <project name="rk/platform/vendor/rockchip/common" path="vendor/rockchip/common"  />
   <project name="rk/platform/vendor/widevine" path="vendor/widevine"  />
   <project name="rk/rkst" path="rkst"  />
+  <project name="vendor/intel/art-extension"/>
   <project name="vendor/intel/houdini"  />
   <project name="vendor/intel/images/debug"  />
   <project name="vendor/intel/images/hex"  />
