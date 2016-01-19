@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="exdroid"
-	  fetch="/git_repo/rockchip/SOFIA3GR/5.1/android/"/>
+	  fetch="/git_repo/rockchip/SOFIA3GR/5.1/android"/>
 
   <default revision="develop"
            remote="exdroid"
