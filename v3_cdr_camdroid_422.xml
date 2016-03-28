@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="gerrit"
+           fetch="/git_repo/v3_cdr/60324/camdroid"/>
+  <default revision="develop"
+           remote="gerrit"
+           sync-j="4" />
+  <project path="build" name="build" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="abi/cpp" name="abi/cpp" />
+  <project path="bionic" name="bionic" />
+  <project path="external" name="external" />
+  <project path="frameworks" name="frameworks" />
+  <project path="hardware" name="hardware" />
+  <project path="packages" name="packages" />
+  <project path="prebuilts" name="prebuilts" />
+  <project path="system" name="system" />
+  <project path="device/softwinner/common" name="device/softwinner/common" />
+  <project path="device/softwinner/crane-common" name="device/softwinner/crane-common" />
+  <project path="device/softwinner/crane-cdr" name="device/softwinner/crane-cdr" />
+</manifest>
